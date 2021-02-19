@@ -7,5 +7,5 @@ void main()
 	scanf("%d%d",&a,&b);
 	c = a+b;
 	printf("THe sum of 2 numbers is  c  = :",c);
-
+	printf("Hello welcome to Workshop");
 }
